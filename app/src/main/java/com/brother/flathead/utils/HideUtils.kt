@@ -5,11 +5,6 @@ import android.content.pm.PackageManager
 import com.brother.flathead.CustomApp
 import com.brother.flathead.MainActivity
 
-/**
- * @author : JiangZhm
- * @date : 2023/9/6
- * @desc :
- */
 object HideUtils {
 
     /**
