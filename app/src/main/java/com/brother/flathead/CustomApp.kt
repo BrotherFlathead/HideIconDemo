@@ -7,11 +7,6 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
-/**
- * @author : JiangZhm
- * @date : 2023/9/6
- * @desc :
- */
 class CustomApp : Application() {
     companion object {
         lateinit var sApp: CustomApp
